@@ -10,7 +10,13 @@ keywords:
     - changelog
 ---
 ## v3
-
+* Creacion de la seccion Club de Ciencias ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz)), ([Nicolas Conteiro](#NickVill1500))
+* Creacion de la Seccion Informacion Util ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz))
+* Agregado y actualizaciones de banners a varias secciones ([Nicolas Conteiro](#NickVill1500))
+* Agregado de Iconos para cada seccion ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz))
+* Mas informacion para la seccion ESI ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz))
+* Creacion de la seccion Cooperadora ([Axel Cruz](#AxelMarianoCruz))
+* Creacion de la seccion ESI ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz))
 * Logo animado ([Luis Armoa](#Armoaaa))
 * Creación de Sección PIA ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz))
 * Creación de sección CATE, Proyectos y Practicas ([Vanina Condorpocco](#VaninaCondorpocco), [Mariangel Valerio](#MariangelValerio), [Iliana Duarte](#IlianaDuarte))
